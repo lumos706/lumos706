@@ -1,6 +1,5 @@
-# lumos.github.io
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/PictureBed/github_logo.gif" alt="GitHub Logo" width="120" height="120" />
+<img src="https://cdn.jsdelivr.net/gh/lumos706/PictureBed/github_logo.gif" alt="GitHub Logo" width="120" height="120" />
 </div>
 
 ## Welcome To My GitHub Profile ! 👋

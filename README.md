@@ -3,7 +3,6 @@
 </div>
 
 ## Welcome To My GitHub Profile ! 👋
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/lumos706/lumos706/assets/github-contribution-grid-snake.svg" width="2048" /></div>
 
 <h1 align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=坚持就是胜利！;单眼皮在跳舞祝您今天愉快!&center=true&size=27"> </a> </h1>
 

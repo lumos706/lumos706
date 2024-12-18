@@ -8,7 +8,7 @@
 
 I am a sophomore majoring in computer science in China. Currently studying at School of Computer Science, Sun Yat-sen University. I love coding for fun 😋.
 
-I’m currently learning: html | C++ | Python 🌱
+I’m currently learning: JavaScript | C++ | Python 🌱
 
 ## Where to find me 🔍 
 

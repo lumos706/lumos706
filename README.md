@@ -15,6 +15,12 @@ I’m currently learning: | HTTP | JavaScript | C++ | Python 🌱
 <p><a href="https://github.com/yang-tian-hub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
+## Overview data
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lumos706&show_icons=true&theme=dark&count_private=true)
+
+
+## Languages data
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumos706&theme=dark&layout=compact)
 
 
 <!--

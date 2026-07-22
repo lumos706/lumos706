@@ -38,6 +38,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,astro,flask,pytorch,opencv,mysql,git,linux,vscode,latex&perline=8" alt="C++, C, Python, Java, JavaScript, HTML, CSS, Astro, Flask, PyTorch, OpenCV, MySQL, Git, Linux, VS Code and LaTeX" />
 </div>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lumos706/lumos706/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lumos706/lumos706/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lumos706/lumos706/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">

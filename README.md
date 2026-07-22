@@ -1,42 +1,53 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Yuzhuo%20Tao&fontSize=58&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%40%20SYSU%20%C2%B7%20AI%20%C2%B7%20HPC%20%C2%B7%20Systems&descAlignY=62&descSize=17" alt="Yuzhuo Tao — Computer Science at SYSU" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=720&lines=Exploring+AI+%C2%B7+HPC+%C2%B7+Systems;LLM+Training+%26+Inference+Optimization;Building+Efficient+AI+Systems;Leaving+a+little+light+between+code+and+life" alt="Typing introduction" /></a>
+
+<p>
+  <a href="https://github.com/lumos706"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://lumos706.github.io/"><img src="https://img.shields.io/badge/Lumos_Blog-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Lumos Blog" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lumos706&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/lumos706?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="Total stars" />
+</p>
+
 </div>
 
-## Welcome To My GitHub Profile ! 👋
-<!--
-<h1 align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Lumos祝你天天开心!✨&center=true&size=27" style="font-family: 'SimHei';"> </a> </h1>
--->
-I am a sophomore majoring in computer science in China. Currently studying at School of Computer Science, Sun Yat-sen University. I love coding for fun 😋.
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <h3>👋 About Me</h3>
+      <p>I'm <b>Yuzhuo Tao</b>, studying Computer Science at Sun Yat-sen University in Guangzhou, China.</p>
+      <p>🔬 My graduate research spans AI, high-performance computing, and systems.<br/>
+      🏢 My lab is based at the National Supercomputer Center in Guangzhou.<br/>
+      ⚡ I currently focus on LLM training and inference optimization.<br/>
+      ✍️ I write about code and life at <a href="https://lumos706.github.io/">Lumos</a>.</p>
+    </td>
+    <td width="48%" valign="top">
+      <h3>🔬 Research Focus</h3>
+      <p>⚡ LLM training & inference optimization<br/>
+      🤖 AI systems<br/>
+      🚀 High-performance computing<br/>
+      ⚙️ Systems research</p>
+    </td>
+  </tr>
+</table>
 
-🌱 I’m currently learning: | JAVA | JavaScript | C++ | Python 🌱
-<!--
-## Where to find me 🔍 
+<h2 align="center">🧰 Skills & Tools</h2>
 
-<p><a href="https://github.com/yang-tian-hub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</p>
--->
-## Overview data
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lumos706&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,astro,flask,pytorch,opencv,mysql,git,linux,vscode,latex&perline=8" alt="C++, C, Python, Java, JavaScript, HTML, CSS, Astro, Flask, PyTorch, OpenCV, MySQL, Git, Linux, VS Code and LaTeX" />
+</div>
 
+<h2 align="center">📊 GitHub Activity</h2>
 
-## Languages data
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lumos706&theme=dark&layout=compact)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumos706&theme=tokyonight" width="32%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lumos706&theme=tokyonight" width="32%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lumos706&theme=tokyonight" width="32%" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumos706&theme=tokyonight" width="100%" alt="Contribution activity" />
+</div>
 
+<p align="center"><i>Thanks for stopping by — may there always be a little light between code and life.</i></p>
 
-<!--
-**yang-tian-hub/yang-tian-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" /></div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" alt="" />

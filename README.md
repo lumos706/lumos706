@@ -15,20 +15,19 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>👋 About Me</h3>
-      <p>I'm <b>Yuzhuo Tao</b>, studying Computer Science at Sun Yat-sen University in Guangzhou, China.</p>
-      <p>🔬 My graduate research spans AI, high-performance computing, and systems.<br/>
-      🏢 My lab is based at NSCC-GZ.<br/>
-      ⚡ I currently focus on LLM training and inference optimization.<br/>
-      ✍️ I write about code and life at <a href="https://lumos706.github.io/">Lumos</a>.</p>
+      <p><b>Yuzhuo Tao</b><br/>
+      🎓 Computer Science @ Sun Yat-sen University<br/>
+      🏢 National Supercomputer Center in Guangzhou<br/>
+      ✍️ Writing at <a href="https://lumos706.github.io/">Lumos</a></p>
     </td>
-    <td width="48%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>🔬 Research Focus</h3>
-      <p>⚡ LLM training & inference optimization<br/>
-      🤖 AI systems<br/>
-      🚀 High-performance computing<br/>
-      ⚙️ Systems research</p>
+      <p>⚡ LLM Training & Inference Optimization<br/>
+      🤖 AI Systems<br/>
+      🚀 High-Performance Computing<br/>
+      ⚙️ Systems Research</p>
     </td>
   </tr>
 </table>

@@ -13,7 +13,7 @@
 
 </div>
 
-<table>
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="middle">
       <h3>👋 About Me</h3>

@@ -19,7 +19,7 @@
       <h3>👋 About Me</h3>
       <p>I'm <b>Yuzhuo Tao</b>, studying Computer Science at Sun Yat-sen University in Guangzhou, China.</p>
       <p>🔬 My graduate research spans AI, high-performance computing, and systems.<br/>
-      🏢 My lab is based at the National Supercomputer Center in Guangzhou.<br/>
+      🏢 My lab is based at NSCC-GZ.<br/>
       ⚡ I currently focus on LLM training and inference optimization.<br/>
       ✍️ I write about code and life at <a href="https://lumos706.github.io/">Lumos</a>.</p>
     </td>

@@ -19,7 +19,7 @@
       <h3>👋 About Me</h3>
       <p><b>Yuzhuo Tao</b><br/>
       🎓 Computer Science @ Sun Yat-sen University<br/>
-      🏢 National Supercomputer Center in Guangzhou<br/>
+      🏢 NSCC-GZ<br/>
       ✍️ Writing at <a href="https://lumos706.github.io/">Lumos</a></p>
     </td>
     <td width="50%" align="center" valign="middle">
